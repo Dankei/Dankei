@@ -1,6 +1,6 @@
 - 👋 Bem-vindo ao meu perfil do GitHub!
 
-- 👨‍💻 Desenvolvedor de software com habilidades em PHP, Java e Python.
+- 👨‍💻 Desenvolvedor de software com habilidades em Golang, PHP, Java e Python.
 
 - 📚 Formado técnico em informática pelo Instituto Federal do Paraná e atualmente cursando Análise e Desenvolvimento de Softwares no Instituto Federal do Paraná.
 
