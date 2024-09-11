@@ -1,14 +1,8 @@
-- 👋 Bem-vindo ao meu perfil do GitHub!
+- 👨‍💻 Programador com habilidades nas linguaguens Golang, Node, Kotlin, Delphi, Java, PHP
 
-- 👨‍💻 Desenvolvedor de software com habilidades em Golang, PHP, Java e Python.
+- 🧑‍💼 Trabalho em uma Empresa de software no PR como desenvolvedor backend a 2 anos
 
 - 📚 Formado técnico em informática pelo Instituto Federal do Paraná e atualmente cursando Análise e Desenvolvimento de Softwares no Instituto Federal do Paraná.
-
-- 📩 Entre em contato comigo caso precise de ajuda ou queira colaborar em algum projeto.
-
-Obrigado pela visita e espero que possamos trabalhar juntos em breve! 😊
-
-
 
   ##
   
